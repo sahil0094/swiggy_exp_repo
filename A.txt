@@ -1,2 +1,2 @@
-Hi testing git features added new
+Hi testing git features added new conflict
 new here
